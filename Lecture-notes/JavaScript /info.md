@@ -5,7 +5,7 @@ Welcome to the JavaScript lecture notes section of the WebDev101 course. Here, y
 ## Table of Contents
 
 - [Lecture 1: Introduction to JavaScript](JavaScript/Lecture1.md)
-- [Lecture 2: JavaScript Parts of Speach](JavaScript/Lecture2.md)
+- [Lecture 2: JavaScript Parts of Speech](JavaScript/Lecture2.md)
 - [Lecture 3: JavaScript Functions and Control Flow](JavaScript/Lecture3.md)
 - [Lecture 4: JavaScript DOM Manipulation](JavaScript/Lecture4.md)
 - [Lecture 5: JavaScript Events and Event Handling](JavaScript/Lecture5.md)
